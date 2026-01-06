@@ -1,0 +1,17 @@
+Microsoft .Net | Language C#
+Microsoft | .Net
+.Net is a platform to build software
+- Code Create
+- integrate
+- Code Deploye
+///////////////////////////////////////////////////////////////////
+Download
+(1) Framework Libraries
+(2) CLR | Common Language Runtime.
+CLR | 
+(1)  CLR works as a translator between .net & operating system.
+
+Solution: Phones
+Project : Mobile Phoone
+Project : Tablet
+Project : Landline
