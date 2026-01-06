@@ -1,0 +1,15 @@
+C:\Users\itsvi\Desktop\Full-Stack-Software-Development\bin\Debug\net10.0\Full-Stack-Software-Development.exe
+C:\Users\itsvi\Desktop\Full-Stack-Software-Development\bin\Debug\net10.0\Full-Stack-Software-Development.deps.json
+C:\Users\itsvi\Desktop\Full-Stack-Software-Development\bin\Debug\net10.0\Full-Stack-Software-Development.runtimeconfig.json
+C:\Users\itsvi\Desktop\Full-Stack-Software-Development\bin\Debug\net10.0\Full-Stack-Software-Development.dll
+C:\Users\itsvi\Desktop\Full-Stack-Software-Development\bin\Debug\net10.0\Full-Stack-Software-Development.pdb
+C:\Users\itsvi\Desktop\Full-Stack-Software-Development\obj\Debug\net10.0\Full-Stack-Software-Development.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsvi\Desktop\Full-Stack-Software-Development\obj\Debug\net10.0\Full-Stack-Software-Development.AssemblyInfoInputs.cache
+C:\Users\itsvi\Desktop\Full-Stack-Software-Development\obj\Debug\net10.0\Full-Stack-Software-Development.AssemblyInfo.cs
+C:\Users\itsvi\Desktop\Full-Stack-Software-Development\obj\Debug\net10.0\Full-Stack-Software-Development.csproj.CoreCompileInputs.cache
+C:\Users\itsvi\Desktop\Full-Stack-Software-Development\obj\Debug\net10.0\Full-Stack-Software-Development.sourcelink.json
+C:\Users\itsvi\Desktop\Full-Stack-Software-Development\obj\Debug\net10.0\Full-Stack-Software-Development.dll
+C:\Users\itsvi\Desktop\Full-Stack-Software-Development\obj\Debug\net10.0\refint\Full-Stack-Software-Development.dll
+C:\Users\itsvi\Desktop\Full-Stack-Software-Development\obj\Debug\net10.0\Full-Stack-Software-Development.pdb
+C:\Users\itsvi\Desktop\Full-Stack-Software-Development\obj\Debug\net10.0\Full-Stack-Software-Development.genruntimeconfig.cache
+C:\Users\itsvi\Desktop\Full-Stack-Software-Development\obj\Debug\net10.0\ref\Full-Stack-Software-Development.dll
